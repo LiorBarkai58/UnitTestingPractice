@@ -8,13 +8,14 @@ namespace DefaultNamespace
 
         private Camera _cam;
 
-        private void Awake()
+        private void Start()
         {
             _cam = Camera.main;
         }
 
         public void MoveCamera()
         {
+            if(_cam == null) _cam = Camera.main;
             if (_cam)
             {
                 _cam.transform.position = transform.position;
