@@ -7,7 +7,9 @@
         "Code",
         "Unity.InputSystem.TestFramework",
         "Unity.InputSystem",
-        "Unity.InputSystem.IntegrationTests"
+        "Unity.InputSystem.IntegrationTests",
+        "Unity.PerformanceTesting",
+        "Unity.PerformanceTesting.Editor"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
