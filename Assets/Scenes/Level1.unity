@@ -132,6 +132,10 @@ PrefabInstance:
       value: DoorTeleporter (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -254,6 +258,10 @@ PrefabInstance:
       value: DoorTeleporter
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -332,6 +340,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -522,6 +534,10 @@ PrefabInstance:
       value: TowerStairs_1 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -625,6 +641,10 @@ PrefabInstance:
       value: Rocks_1_2 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -684,6 +704,10 @@ PrefabInstance:
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_Name
       value: TowerStairs_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -837,6 +861,10 @@ PrefabInstance:
       value: Hill_4
       objectReference: {fileID: 0}
     - target: {fileID: 7698489276477751373, guid: 33bdca709c18ae24799bcc1ffec8d81b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7698489276477751373, guid: 33bdca709c18ae24799bcc1ffec8d81b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -856,6 +884,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -917,6 +949,10 @@ PrefabInstance:
     - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
       propertyPath: m_Name
       value: Wall_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -990,6 +1026,10 @@ PrefabInstance:
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_Name
       value: DoorTeleporter2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1114,6 +1154,10 @@ PrefabInstance:
       value: TowerStairs_1 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1217,6 +1261,10 @@ PrefabInstance:
       value: Rocks_1_2 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1278,6 +1326,10 @@ PrefabInstance:
       value: Rocks_1_2 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1337,6 +1389,10 @@ PrefabInstance:
     - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
       propertyPath: m_Name
       value: Wall_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1410,6 +1466,10 @@ PrefabInstance:
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_Name
       value: TowerStairs_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1515,6 +1575,10 @@ PrefabInstance:
       value: TowerStairs_1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1618,6 +1682,10 @@ PrefabInstance:
       value: Rocks_1_2 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1677,6 +1745,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1740,6 +1812,10 @@ PrefabInstance:
       value: Rocks_1_2 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -1799,6 +1875,10 @@ PrefabInstance:
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_Name
       value: DoorTeleporter (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1963,6 +2043,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2163,6 +2247,10 @@ PrefabInstance:
       value: Wall_1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 410023034039000488, guid: 4e85008a8b775be418c6805c3e05890e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2234,6 +2322,10 @@ PrefabInstance:
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_Name
       value: TowerStairs_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2339,6 +2431,10 @@ PrefabInstance:
       value: TowerStairs_1 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6096171229851556351, guid: 49592a117db7f134ba6164aa0121c52b, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2442,6 +2538,10 @@ PrefabInstance:
       value: Rocks_1_2 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2501,6 +2601,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2564,6 +2668,10 @@ PrefabInstance:
       value: Rocks_1_2 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -2623,6 +2731,10 @@ PrefabInstance:
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_Name
       value: Rocks_1_2 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2874346912576944333, guid: b7bcc701c08852e42b872b9f35fc12e7, type: 3}
       propertyPath: m_StaticEditorFlags
