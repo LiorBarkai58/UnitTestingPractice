@@ -1,7 +1,14 @@
 fileFormatVersion: 2
 guid: d46a3bc37d4cc5d489a828a8f3ffe72e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289115
+  packageName: Medieval Arena - Cute Series URP
+  packageVersion: 1.0
+  assetPath: Assets/Medieval Cute Series/3D Models/Building_2.fbx
+  uploadId: 678525
 ModelImporter:
-  serializedVersion: 22200
+  serializedVersion: 24200
   internalIDToNameTable: []
   externalObjects:
   - first:
@@ -61,8 +68,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -103,6 +108,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -123,7 +131,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
@@ -142,7 +150,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
@@ -152,10 +160,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 289115
-  packageName: Medieval Arena - Cute Series URP
-  packageVersion: 1.0
-  assetPath: Assets/Medieval Cute Series/3D Models/Building_2.fbx
-  uploadId: 678525
