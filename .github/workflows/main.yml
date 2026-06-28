@@ -1,11 +1,17 @@
+name: PlayMode Tests
+
 on:
   push:
     branches:
       - master
 
+permissions:
+  checks: write
+  contents: read
+
 jobs:
   playmode-tests:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
@@ -17,6 +23,5 @@ jobs:
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
         with:
-          projectPath: .
           testMode: playmode
           githubToken: ${{ secrets.GITHUB_TOKEN }}
