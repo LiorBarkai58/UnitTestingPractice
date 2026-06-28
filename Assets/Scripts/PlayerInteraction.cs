@@ -9,6 +9,8 @@ namespace DefaultNamespace
         private Torch torchInRange;
         [SerializeField] private string tagToCheck = "Torch";
         public string TagToCheck => tagToCheck;
+        
+        public Torch TorchInRange => torchInRange;
         public void OnInteract(InputAction.CallbackContext context)
         {
             if (context.started)

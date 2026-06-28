@@ -539,6 +539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73a7c45e8e1d4f569351027a6f509ba9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Code::DefaultNamespace.PlayerInteraction
+  tagToCheck: Torch
 --- !u!1001 &485062201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -648,7 +649,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 1.89
+  m_Radius: 1.15
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &797242132
 MonoBehaviour:
