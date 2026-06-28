@@ -217,7 +217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DefaultNamespace.Door
   shouldMoveScene: 1
-  SceneToLoad: SampleScene
+  SceneToLoad: Level 2 Heavy
 --- !u!136 &55457642
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1077,7 +1077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DefaultNamespace.Door
   shouldMoveScene: 1
-  SceneToLoad: SampleScene
+  SceneToLoad: Level 2 Light
 --- !u!136 &585903952
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1886,7 +1886,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DefaultNamespace.Door
   shouldMoveScene: 1
-  SceneToLoad: SampleScene
+  SceneToLoad: Level 2 Light
 --- !u!136 &1359411752
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1928,7 +1928,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DefaultNamespace.Door
   shouldMoveScene: 1
-  SceneToLoad: SampleScene
+  SceneToLoad: Level 2 Heavy
 --- !u!136 &1360727318
 CapsuleCollider:
   m_ObjectHideFlags: 0
